@@ -45,13 +45,13 @@ New York City's yellow and green taxi fleet generates one of the world's largest
 nyc-taxi-fare-prediction-spark/
 │
 ├── notebooks/              # Databricks notebooks (exported as .py)
-│   ├── 01_ingestion.py
-│   ├── 02_cleaning.py
-│   ├── 03_eda_business_questions.py
-│   └── 04_modelling.py
+│   ├── Part_1_Cleaning.py
+│   ├── Part_2_Queries.py
+│   ├── Part_3_EDA.py
+│   └── Part_4_Modelling.py
 │
 ├── report/
-│   └── assignment2_report.pdf
+│   └── Report.pdf
 │
 └── README.md
 ```
